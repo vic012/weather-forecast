@@ -10,7 +10,7 @@ Aplicação Django para previsão do tempo
 | :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://user-images.githubusercontent.com/40746318/195938838-4872ccd4-0e31-4b85-98d2-e8d3aeb52510.png#vitrinedev)
+![](https://user-images.githubusercontent.com/40746318/195938838-4872ccd4-0e31-4b85-98d2-e8d3aeb52510.png?text=imagem#vitrinedev)
 
 ## Detalhes do projeto
 
