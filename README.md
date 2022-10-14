@@ -1,17 +1,36 @@
-# Nome do meu projeto
+# Prever
 
-Rápida descrição do objetivo de fazer esse projeto
+Aplicação Django para previsão do tempo
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Prever - Previsão do tempo**
+| :label: Tecnologias | python, django, html, css
+| :rocket: URL         | https://prever.herokuapp.com/
+| :fire: Desafio     | -
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://user-images.githubusercontent.com/40746318/195938838-4872ccd4-0e31-4b85-98d2-e8d3aeb52510.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+# Previsão do tempo com base no endereço
+
+## [Prever](https://prever.herokuapp.com/)
+
+## Esse APP consome a API de previsão de tempodo HG Weather
+
+# Ferramentas usadas no projeto
+
+### Linguagem de programação
+- Python 3.9.5
+### Framework
+- Django 3.2.9
+### Biblioteca
+- [Requests](https://docs.python-requests.org/en/latest/)
+
+### Ferramenta para Deploy do projeto
+- Heroku (Free)
+
+## Como funciona?
+- Ao acessar o site, você deve informar a cidade e o estado que deseja consultar a previsão
